@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ponencia_test/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/ponencia_test/static/js/main.a2983f94.chunk.js",
+    "main.js.map": "/ponencia_test/static/js/main.a2983f94.chunk.js.map",
+    "runtime-main.js": "/ponencia_test/static/js/runtime-main.8b72eef1.js",
+    "runtime-main.js.map": "/ponencia_test/static/js/runtime-main.8b72eef1.js.map",
+    "static/js/2.08897965.chunk.js": "/ponencia_test/static/js/2.08897965.chunk.js",
+    "static/js/2.08897965.chunk.js.map": "/ponencia_test/static/js/2.08897965.chunk.js.map",
+    "static/js/3.7e2c213d.chunk.js": "/ponencia_test/static/js/3.7e2c213d.chunk.js",
+    "static/js/3.7e2c213d.chunk.js.map": "/ponencia_test/static/js/3.7e2c213d.chunk.js.map",
+    "index.html": "/ponencia_test/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/ponencia_test/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.08897965.chunk.js.LICENSE.txt": "/ponencia_test/static/js/2.08897965.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ponencia_test/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b72eef1.js",
+    "static/js/2.08897965.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.a2983f94.chunk.js"
+  ]
+}
