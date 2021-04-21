@@ -22,4 +22,4 @@ jobs:
         git config --global user.email ${{secrets.MAIL}}
         git config --global user.name ${{secrets.USER}}
         git remote set-url origin https://${{secrets.PERSONAL_ACCESS_TOKEN}}@github.com/${{secrets.USER}}/ponencia_test.git
-        npm run deploy
+        npm run start
